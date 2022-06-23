@@ -15,7 +15,6 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=CryptoApp)](https://github.com/aliatillaydemir/CryptoApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=labirent_oyunu)](https://github.com/aliatillaydemir/labirent_oyunu)
 
 
 
