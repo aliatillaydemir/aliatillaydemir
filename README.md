@@ -6,8 +6,11 @@
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliatillaydemir&layout=compact)](https://github.com/aliatillaydemir/github-readme-stats)-->
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliatillaydemir&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliatillaydemir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliatillaydemir&hide=asp)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
