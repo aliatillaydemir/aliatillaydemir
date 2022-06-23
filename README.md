@@ -4,8 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliatillaydemir&show_icons=true&theme=radical)
 
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=CryptoApp)](https://github.com/aliatillaydemir/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=museumApp)](https://github.com/aliatillaydemir/github-readme-stats)
 
 
 
