@@ -10,6 +10,12 @@ I'm Atilla from Turkey and I develop android apps. My favorite language is kotli
 * :iphone: JAVA / KOTLIN / COMPOSE Tool
 * :computer: JAVA / C
 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliatillaydemir&layout=compact)](https://github.com/aliatillaydemir/github-readme-stats)-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliatillaydemir&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
