@@ -30,7 +30,7 @@ I'm Atilla from Turkey and I develop android apps. My favorite language is kotli
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aliatillaydemir&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=MeetFriends-App)](https://github.com/aliatillaydemir/labirent_oyunu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=MeetFriends-App)](https://github.com/aliatillaydemir/MeetFriends-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=CryptoApp)](https://github.com/aliatillaydemir/CryptoApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=Crash_baloons)](https://github.com/aliatillaydemir/Crash_baloons)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=labirent_oyunu)](https://github.com/aliatillaydemir/labirent_oyunu)
