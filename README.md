@@ -23,7 +23,6 @@ I'm Atilla from Turkey and I develop android apps. My favorite language is kotli
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliatillaydemir&hide=asp)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/atilla-aydemir-406b99193/)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliatillaydemir&show_icons=true&theme=radical)
@@ -31,9 +30,10 @@ I'm Atilla from Turkey and I develop android apps. My favorite language is kotli
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aliatillaydemir&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=MeetFriends-App)](https://github.com/aliatillaydemir/labirent_oyunu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=CryptoApp)](https://github.com/aliatillaydemir/CryptoApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=Crash_baloons)](https://github.com/aliatillaydemir/labirent_oyunu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=labirent_oyunu)](https://github.com/aliatillaydemir/labirent_oyunu)
-
 
 
 
