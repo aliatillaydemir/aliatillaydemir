@@ -35,7 +35,6 @@ I'm Atilla from Turkey and I develop android apps. My favorite language is kotli
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=Crash_baloons)](https://github.com/aliatillaydemir/Crash_baloons)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=labirent_oyunu)](https://github.com/aliatillaydemir/labirent_oyunu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=MovieApp)](https://github.com/aliatillaydemir/MovieApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=RedditClone)](https://github.com/aliatillaydemir/RedditClone)
 
 
 
