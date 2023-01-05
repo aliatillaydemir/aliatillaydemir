@@ -33,11 +33,14 @@ I'm Atilla from Turkey and I develop android apps. My favorite language is kotli
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliatillaydemir&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aliatillaydemir&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aliatillaydemir&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Pins
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=MeetFriends-App)](https://github.com/aliatillaydemir/MeetFriends-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=WineApp)](https://github.com/aliatillaydemir/WineApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=ShoppingApp)](https://github.com/aliatillaydemir/ShoppingApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=CryptoApp)](https://github.com/aliatillaydemir/CryptoApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=Crash_baloons)](https://github.com/aliatillaydemir/Crash_baloons)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliatillaydemir&repo=labirent_oyunu)](https://github.com/aliatillaydemir/labirent_oyunu)
