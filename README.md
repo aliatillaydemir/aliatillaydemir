@@ -17,6 +17,7 @@ I'm Atilla from Turkey and I develop android apps. My favorite language is kotli
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliatillaydemir&layout=compact)](https://github.com/aliatillaydemir/github-readme-stats)-->
 <!--
