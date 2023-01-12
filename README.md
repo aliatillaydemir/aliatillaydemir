@@ -5,6 +5,8 @@
 
 I'm Atilla from Turkey and I develop android apps. My favorite language is kotlin and I believe that kotlin has a bigger future. I'm trying to improve myself on design patterns, testing and network library. I also like to use different technologies and tools.
 
+![](https://komarev.com/ghpvc/?username=aliatillaydemir&color=green)
+
 ## Skills and Experince 
 
 * :iphone: JAVA / KOTLIN / COMPOSE Tool
